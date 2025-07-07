@@ -4,9 +4,9 @@
 <uses-permission android:name="android.permission.INTERNET" />
 
 <application
-    android:label="Voice Assistant"
+    android:label="kaju "
     ... >
-    <activity android:name=".MainActivity">
+    <activity android:name=".kaju">
         <intent-filter>
             <action android:name="android.intent.action.MAIN" />
             <category android:name="android.intent.category.LAUNCHER" />
